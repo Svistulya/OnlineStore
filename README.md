@@ -1,29 +1,6 @@
-# vue-project
+# Online-store
+Выполнен с использованием фреймворка VueJs.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Страница представляет много уровнеывй список категорий.
+Интерфейс состоит из кнопок сортировки, составления отчета, и покупки.
+Для создания отчета, нужно купить товарыи и на основе этого будет создан отчет в виде csv или json файла.
